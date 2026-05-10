@@ -19,7 +19,7 @@
 
 ---
 
-We build **harnesses that make coding agents trustworthy**. Our first tool, [klyd](https://github.com/Klyd Studio/klyd), extracts and enforces architectural decisions across every session, so your codebase never loses its spine.
+We build **harnesses that make coding agents trustworthy**. Our first tool, [klyd](https://github.com/Klyd-Studio/klyd-harness), extracts and enforces architectural decisions across every session, so your codebase never loses its spine.
 
 ### What we believe
 
