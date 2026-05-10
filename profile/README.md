@@ -17,11 +17,6 @@
   <strong>Stability for AI‑generated code.</strong>
 </p>
 
-<h1 align="center">Klyd Studio</h1>
-<p align="center">
-  <strong>Stability for AI‑generated code.</strong>
-</p>
-
 ---
 
 We build **harnesses that make coding agents trustworthy**. Our first tool, [klyd](https://github.com/Klyd Studio/klyd), extracts and enforces architectural decisions across every session, so your codebase never loses its spine.
